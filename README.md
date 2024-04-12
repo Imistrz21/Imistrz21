@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Imistrz21/Imistrz21/blob/main/thunderstorm-3625405_1280.jpg" alt="Background Image" width="100%" height="auto">
+  <img src="https://github.com/Imistrz21/Imistrz21/blob/main/thunderstorm-3625405_1280.jpg" alt="Background Image" width="100%" height="250px">
 </div>
 
 <h1 align="center">Hi, I'm Imistrz!</h1>
