@@ -30,9 +30,7 @@
 - Git/GitHub
 
 ## 🚀 Projects
-- [Project 1](https://github.com/imistrz/project-1): Description of Project 1.
-- [Project 2](https://github.com/imistrz/project-2): Description of Project 2.
-- [Project 3](https://github.com/imistrz/project-3): Description of Project 3.
+- [Aptbwac](https://github.com/Imistrz21/Aptbwac): Aptbwac (short for "A Program That Bypasses Windows Account Check") is a tool designed to bypass Windows...
 
 ## 📝 Latest Blog Posts
 - [Blog Post 1]No blog posts for now.
@@ -50,4 +48,4 @@
 
 ---
 
-<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/imistrz">my repositories</a>! ⭐️</p>
+<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/imistrz">my repositories</a>! :) ⭐️</p>
