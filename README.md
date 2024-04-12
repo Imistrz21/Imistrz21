@@ -3,7 +3,7 @@
   <img src="https://github.com/Imistrz21/Imistrz21/blob/main/thunderstorm-3625405_1280.jpg" alt="Background Image" width="100%" height="auto">
 </div>
 
-<h1 align="center" style="z-index:20;">Hi, I'm Imistrz!</h1>
+<h1 align="center">Hi, I'm Imistrz!</h1>
 <p align="center">
   <a href="https://www.youtube.com/imistrz"><img src="https://img.shields.io/badge/YouTube-imistrz-red?style=flat-square&logo=youtube" alt="YouTube"></a>
   <a href="https://formater.space"><img src="https://img.shields.io/badge/Website-formater.space-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
