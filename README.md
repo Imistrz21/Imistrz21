@@ -31,6 +31,7 @@
 
 ## 🚀 Projects
 - [Aptbwac](https://github.com/Imistrz21/Aptbwac): Aptbwac (short for "A Program That Bypasses Windows Account Check") is a tool designed to bypass Windows...
+- [Easier-explorer](https://github.com/Imistrz21/Easier-explorer): Easier-explorer is a tool designed to replace windows explorer...
 
 ## 📝 Latest Blog Posts
 - [Blog Post 1]No blog posts for now.
@@ -48,4 +49,4 @@
 
 ---
 
-<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/imistrz">my repositories</a>! :) ⭐️</p>
+<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
