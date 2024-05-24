@@ -39,7 +39,7 @@
 
 
 ## 📬 Get in Touch
-- [YouTube](https://www.youtube.com/imistrz)
+- [YouTube](http://www.youtube.com/@imistrz)
 - [Website](https://formater.space)
 - Email: for now no email
 
