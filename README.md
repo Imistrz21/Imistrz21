@@ -42,6 +42,6 @@
 - Email: for now no email
 
 ## 🌱 I'm Currently Learning
-- PHP
+![Languages](https://skillicons.dev/icons?i=php)
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
