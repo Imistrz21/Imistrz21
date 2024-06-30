@@ -19,7 +19,7 @@
 </p>
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c#,js,python,java)
+![Languages](https://skillicons.dev/icons?i=c,cs,js,python,java)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
