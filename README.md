@@ -19,7 +19,7 @@
 </p>
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cs,js,python,java,lua)
+![Languages](https://skillicons.dev/icons?i=cs,js,python,java,lua)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,md)
@@ -42,6 +42,6 @@
 - Email: for now no email
 
 ### 🌱 I'm Currently Learning
-![Languages](https://skillicons.dev/icons?i=php)
+![Languages](https://skillicons.dev/icons?i=php,c)
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
