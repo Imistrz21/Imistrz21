@@ -36,17 +36,12 @@
 ## 🚀 Projects
 - [No projects for now ;)](https://github.com/Imistrz21/Soon): Soon...
 
-## 📝 Latest Blog Posts
-- [Blog Post 1]No blog posts for now.
-
 ## 📬 Get in Touch
 - [YouTube](http://www.youtube.com/@imistrz)
 - [Website](https://formater.space)
 - Email: for now no email
 
 ## 🌱 I'm Currently Learning
-- SQL
 - PHP
-- Data Structures and Algorithms
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
