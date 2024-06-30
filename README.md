@@ -19,19 +19,19 @@
 </p>
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cs,js,python,java)
+![Languages](https://skillicons.dev/icons?i=c,cs,js,python,java,lua)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,md)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,godot,obsidian,pr,powershell)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=windows,linux,arch,git,github,markdown,vscode,githubactions,gitlab,arduino,raspberrypi,discord,bots,)
 
 ## 🚀 Projects
 - [Shaphtml??](https://github.com/Imistrz21/Shaphtml): Shaphtml is a game???? I think it will be playable, maybe.....
