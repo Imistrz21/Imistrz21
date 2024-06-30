@@ -31,7 +31,7 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,godot,obsidian,pr,powershell)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=windows,linux,arch,git,github,markdown,vscode,githubactions,gitlab,arduino,raspberrypi,discord,bots,)
+![Others](https://skillicons.dev/icons?i=windows,linux,arch,git,github,markdown,vscode,gitlab,arduino,raspberrypi,discord,bots,)
 
 ## 🚀 Projects
 - [Shaphtml??](https://github.com/Imistrz21/Shaphtml): Shaphtml is a game???? I think it will be playable, maybe.....
