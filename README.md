@@ -13,9 +13,6 @@
   I'm a programmer passionate about Batch, C#(.NET), and JavaScript. Welcome to my GitHub profile, where you'll find my projects, contributions, and more!
 </p>
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=gmail" alt="Contact Me"></a>
-</p>
 
 <p align="center">
   <img src="https://via.placeholder.com/900x3/00FF00/000000?text=+">
