@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x10/00FF00/000000?text=+" alt="Green and Black Line">
+  <img src="https://via.placeholder.com/900x5/00FF00/000000?text=+">
 </p>
 
 ## 💼 Skills & Tools
