@@ -47,6 +47,3 @@
 - Data Structures and Algorithms
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
-```
-```
-```
