@@ -21,12 +21,20 @@
   <img src="https://via.placeholder.com/900x3/00FF00/000000?text=+">
 </p>
 
-## 💼 Skills & Tools
-- Batch Scripting
-- C# (.NET)
-- JavaScript
-- HTML/CSS
-- Git/GitHub
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c#,js,python,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,githubactions,gitlab)
 
 ## 🚀 Projects
 - [Shaphtml??](https://github.com/Imistrz21/Shaphtml): Shaphtml is a game???? I think it will be playable, maybe.....
