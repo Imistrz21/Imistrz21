@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/Imistrz21/Imistrz21/blob/main/thunderstorm-3625405_1280.jpg" alt="Background Image" width="100%" height="250px">
 </div>
@@ -18,9 +17,9 @@
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=gmail" alt="Contact Me"></a>
 </p>
 
----
-
-
+<p align="center">
+  <img src="https://via.placeholder.com/600x10/00FF00/000000?text=+" alt="Green and Black Line">
+</p>
 
 ## 💼 Skills & Tools
 - Batch Scripting
@@ -37,7 +36,6 @@
 ## 📝 Latest Blog Posts
 - [Blog Post 1]No blog posts for now.
 
-
 ## 📬 Get in Touch
 - [YouTube](http://www.youtube.com/@imistrz)
 - [Website](https://formater.space)
@@ -47,7 +45,5 @@
 - SQL
 - PHP
 - Data Structures and Algorithms
-
----
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
