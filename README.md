@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x10/00FF00/000000?text=+" style="background: linear-gradient(to right, #00FF00, #000000);" alt="Gradient Line">
+  <img src="https://via.placeholder.com/900x3/00FF00/000000?text=+">
 </p>
 
 ## 💼 Skills & Tools
