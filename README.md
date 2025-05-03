@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Imistrz!</h1>
 <p align="center">
   <a href="https://www.youtube.com/imistrz"><img src="https://img.shields.io/badge/YouTube-imistrz-red?style=flat-square&logo=youtube" alt="YouTube"></a>
-  <a href="https://formater.space"><img src="https://img.shields.io/badge/Website-formater.space-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
   <img src="https://img.shields.io/badge/Student-Poland-green?style=flat-square&logo=student" alt="Student">
 </p>
 
