@@ -32,14 +32,11 @@
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=windows,linux,arch,git,github,markdown,vscode,gitlab,arduino,raspberrypi,discord,bots,)
 
-### 🚀 Projects
-- [No projects for now ;)](https://github.com/Imistrz21/Soon): Soon...
 
 ### 📬 Get in Touch
 - [YouTube](http://www.youtube.com/@imistrz)
-- Email: for now no email
 
 ### 🌱 I'm Currently Learning
 ![Languages](https://skillicons.dev/icons?i=php,c)
 
-<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a>! :) ⭐️</p>
+<p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a> :3 ⭐️</p>
