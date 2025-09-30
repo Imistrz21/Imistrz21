@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I'm a programmer passionate about Batch, C#(.NET), and JavaScript. Welcome to my GitHub profile, where you'll find my projects, contributions, and more!
+  I'm a programmer passionate about Batch, C#(.NET), and JavaScript.
 </p>
 
 
@@ -33,10 +33,10 @@
 ![Others](https://skillicons.dev/icons?i=windows,linux,arch,git,github,markdown,vscode,gitlab,arduino,raspberrypi,discord,bots,)
 
 
-### 📬 Get in Touch
+### Get in Touch with me
 - [YouTube](http://www.youtube.com/@imistrz)
 
-### 🌱 I'm Currently Learning
-![Languages](https://skillicons.dev/icons?i=php,c)
+### What I'm Currently Learning
+- Everything
 
 <p align="center">⭐️ Show some ❤️ by starring <a href="https://github.com/Imistrz21">my repositories</a> :3 ⭐️</p>
